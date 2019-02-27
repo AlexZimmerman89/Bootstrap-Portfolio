@@ -1,0 +1,51 @@
+body {
+  background: grey;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  margin: 15px;
+  position: relative;
+  bottom: 10px;
+  right: 15px;
+}
+
+
+ .container {
+   width: 960px;
+   height: 600px;
+   background: white;
+   margin-top: 20px;
+ }
+
+ .widthWrapper {
+   width: 960px;
+   margin: auto;
+   background: white;
+ }
+ 
+ 
+ .aboutMe  {
+   border-bottom: 5px green solid;
+   color: green;
+ }
+
+ .secondRow {
+   margin-top: 10px;
+ }
+
+ #aboutMe {
+   line-height: 49px;
+   font-size: 30px;
+ }
+
+ .col-md-9 {
+   position: relative;
+   left: 650px;
+ }
+
+ #exampleFormControlTextarea1 {
+   height: 200px;
+ }
+
